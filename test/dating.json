@@ -1,0 +1,91 @@
+[{
+    "userid": "3241",
+    "name": "Juanito",
+    "surname": "Pelotes",
+    "zodiacsign": "acuario",
+    "country": "españa",
+    "city": "sevilla",
+    "age": 22,
+    "gender": "masculino",
+    "preferences": "mujeres, 30-40 ",
+    "interests": "music, cine"
+},
+{
+    "userid": "4637",
+    "name": "maria",
+    "surname": "rodriguez",
+    "zodiacsign": "piscis",
+    "country": "españa",
+    "city": "madrid",
+    "age": "28",
+    "gender": "femenino",
+    "preferences": "mujeres, 20-30 ",
+    "interests": "salir con los amigos, deporte"
+},
+{
+    "userid": "0928",
+    "name": "carlos",
+    "surname": "dominguez",
+    "zodiacsign": "capricornio",
+    "country": "españa",
+    "city": "valencia",
+    "age": "19",
+    "gender": "masculino",
+    "preferences": "mujeres, 20-30 ",
+    "interests": "bailar, artes marciales"
+},
+{
+    "userid": "6736",
+    "name": "john",
+    "surname": "lennon",
+    "zodiacsign": "libra",
+    "country": "england",
+    "city": "liverpol",
+    "age": "34",
+    "gender": "masculino",
+    "preferences": "hombres, 25-30 ",
+    "interests": "bailar, viajar"
+},
+{
+    "userid": "6754",
+    "name": "pamela",
+    "surname": "jurado",
+    "zodiacsign": "acuario",
+    "country": "españa",
+    "city": "cadiz",
+    "age": "42",
+    "gender": "femenino",
+    "preferences": "hombres, 40 ",
+    "interests": "salir de fiesta, cine"
+},
+{
+    "userid": "7362",
+    "name": "rodolfo",
+    "surname": "langostino",
+    "zodiacsign": "sagitario",
+    "country": "españa",
+    "city": "malaga",
+    "age": "33",
+    "gender": "masculino",
+    "preferences": "mujeres, 18-40 ",
+    "interests": "artes marciales, vino"
+},
+{
+    "userid": "7890",
+    "name": "patrick",
+    "surname": "james",
+    "zodiacsign": "virgo",
+    "country": "holanda",
+    "city": "amsterdam",
+    "age": "50",
+    "gender": "masculino",
+    "preferences": "mujeres, 40-60",
+    "interests": "musica, cine"
+}
+]
+    
+
+
+
+
+
